@@ -1,9 +1,13 @@
-pycache/
+﻿__pycache__/
 *.py[cod]
-*.o
+*$py.class
 *.so
-test_cpp
+*.dylib
+*.dll
 build/
 dist/
 *.egg-info/
+.eggs/
+.pytest_cache/
+figures/*.png
 .DS_Store
