@@ -1,8 +1,8 @@
-__pycache__/
+pycache/
 *.py[cod]
+*.o
 *.so
-*.dylib
-*.dll
+test_cpp
 build/
 dist/
 *.egg-info/

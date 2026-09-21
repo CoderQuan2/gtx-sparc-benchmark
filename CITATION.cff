@@ -1,0 +1,20 @@
+﻿cff-version: 1.2.0
+message: "If you use this benchmark or theoretical model, please cite it as below."
+authors:
+  - family-names: "Abram"
+    given-names: "T."
+    affiliation: "Independent Researcher, Flint, Michigan, USA"
+    email: "tabram@gth-physics.org"
+title: "Zero-Free-Parameter Fits to the SPARC 175-Galaxy Sample from a Relativistic Boundary Stress Tensor"
+version: 1.0.0
+date-released: 2026-09-20
+repository-code: "https://github.com/CoderQuan2/sparc-benchmark"
+keywords:
+  - "astrophysics"
+  - "galaxy rotation curves"
+  - "SPARC database"
+  - "radial acceleration relation"
+  - "boundary stress tensor"
+  - "modified dynamics"
+  - "substrate geotopologics"
+  - "gtx"
