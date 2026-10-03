@@ -6,7 +6,7 @@ build-backend = "setuptools.build_meta"
 name = "sparc-benchmark"
 version = "1.0.0"
 authors = [
-    { name = "T. Abram", email = "tabram@gth-physics.org" },
+    { name = "T. Abram", email = "tabram2000@gmail.com" },
 ]
 description = "Zero-Free-Parameter SPARC 175-Galaxy Benchmark Suite via Relativistic Boundary Stress Tensor (gtx)"
 readme = "README.md"
