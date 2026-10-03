@@ -2,7 +2,7 @@
     
 An open-source, reproducible computational benchmark suite for evaluating the Relativistic Boundary Stress Tensor formulation of Substrate Geotopologics (gtx) across the canonical 175-galaxy Spitzer Photometry and Accurate Rotation Curves (SPARC) database (3,262 kinematic points).
 Accompanying research manuscript:
-Zero-Free-Parameter Fits to the SPARC 175-Galaxy Sample from a Relativistic Boundary Stress Tensor
+Zero-Free-Parameter 
 T. Abram (Flint, Michigan, USA — September 2026)
 ________________
 
