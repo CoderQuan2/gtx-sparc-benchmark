@@ -1,9 +1,9 @@
-﻿[build-system]
+﻿[ build-system ]
 requires = ["setuptools>=61.0", "wheel"]
 build-backend = "setuptools.build_meta"
 
 
-[project]
+[ project ]
 name = "sparc-benchmark"
 version = "1.0.0"
 authors = [
@@ -27,6 +27,6 @@ dependencies = [
 ]
 
 
-[project.urls]
+[ project.urls ]
 "Homepage" = "https://github.com/CoderQuan2/sparc-benchmark"
 "Manuscript" = "https://drive.google.com/file/d/1uQq0Kpxm5bqcexNKyBnUEDLKmP_L8izd/view"
